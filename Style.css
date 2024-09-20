@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   background-image: url(coffee2.jpg) ;
+   background-repeat: no-repeat;
+   background-size: 1500px 800px;
+
+}
+.header{
+    /* position: fixed;
+    top: 0;
+    left: 0; */
+    width: 100%;
+    /* background: red; */
+    padding: 20px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+}
+a{
+    /* position: relative; */
+    font-size: 1.1em;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 40px;
+    background: none;
+
+}
+.nav{
+    background: none;
+}
+
+.container
+{
+     color: white;
+     /* border: 2px solid white; */
+     float: left;
+     width: 600px;
+     margin-top: 150px;
+     margin-left: 20px;
+     background: none;
+   
+}
+
+.div2{
+    color: white;
+     /* border: 2px solid white;  */
+     float: right;
+     margin-top: 35px;
+     margin-right: 100px;
+     width: 400px;
+     height: 300px;
+     padding: 20px;
+     background: none;
+    }
+    .container button{
+        color: #fff;
+        font-size: 15px;
+        margin-left: 10px;
+        border: 1px solid white;
+        border-radius: 20px;
+        padding: 10px;
+        width: 150px;
+    }
+    h2{
+       margin: 10px;
+        background: none;
+    } 
+  
+.div2 input{
+   
+    padding: 3px;
+    color: #fff;
+    /* width: 350px; */
+    background: none;
+    border: none;
+    font-size: 17px;
+
+}
+pre{
+    background: none;
+   
+}
+#bu{
+    border: 1px solid white;
+    color: #fff;
+    border-radius: 50px;
+    width: 100%;
+    background: none;
+    height: 50px;
+}
+#p1{
+    background: none;
+    text-align: center;
+}
+#firstp{
+    background: none;
+}
+#head2{
+    text-align: center;
+}
+
+#icon,#icon2{
+    background: none;
+    border: 2px solid white;
+    border-radius: 50px;
+    /* display: inline; */
+    width: 360px;
+    height: 60px;
+    padding: 20px;
+}
+i{
+    background: none;
+}
