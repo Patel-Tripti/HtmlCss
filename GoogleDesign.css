@@ -1,0 +1,28 @@
+body{
+    /* background:rgb(54, 86, 66); */
+}
+.box{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    /* background-color: yellow; */
+}
+.box h1{
+    width: 400px;
+    height: 400px;
+    background-image: conic-gradient(from -30deg at 34% 64%,red 0deg,red 90deg,blue 90deg,blue 180deg,green
+     180deg,green 270deg,yellow 270deg,yellow 360deg);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 30em;
+     margin-top: 15px;
+     padding-bottom: 80px;
+     background-clip: text;
+     color: transparent;
+}
+p{
+  font-weight: bold; 
+  text-align: center;
+  font-size: 30px;
+  background-image: linear-gradient(to right,red,blue 15%,green,yellow);
+   
+}
